@@ -1,4 +1,6 @@
 # newbee
 this is my first git repository.
-getting familiar with github. 
+<br>
+getting familiar with github.
+<br>
 exploring how commit in github works.
